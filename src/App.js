@@ -30,10 +30,10 @@ function App() {
   };
 
   const getExamDatesUnix = dates => {
-    const dataFormat = "DD MMMM, YYYY";
+    const dateFormat = "DD MMMM, YYYY";
     let unixDates = [];
     dates.map(data => {
-      let unix = moment(data, dataFormat).unix();
+      let unix = moment(data, dateFormat).unix();
       unixDates.push(unix);
     });
     return unixDates;
