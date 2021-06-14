@@ -2,8 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-this is an simple form POC where user can Apply for the tests.
-Hooks are used in the entire POC and there is one extra library is used to manange the data format (moment)
+This POC is related to React Hooks. It contains a form where a user can schedule his/her test for different subjects available under different courses for on particular date. It also contains proper validation checks on entering wrong data in the input fields. 
+
+React Hooks have been used in the entire POC and also 'moment' library has been used to manage the date format.
+
+<img src='./form.gif' alt='video' height='720' />
 
 ## Available Scripts
 
