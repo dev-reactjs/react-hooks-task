@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+this is an simple form POC where user can Apply for the tests.
+Hooks are used in the entire POC and there is one extra library is used to manange the data format (moment)
+
 ## Available Scripts
 
 In the project directory, you can run:
